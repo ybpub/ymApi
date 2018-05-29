@@ -1,0 +1,11 @@
+C:\ybproj\GitHub\ymapi\bin\Debug\netcoreapp2.0\ymApi.deps.json
+C:\ybproj\GitHub\ymapi\bin\Debug\netcoreapp2.0\ymApi.runtimeconfig.json
+C:\ybproj\GitHub\ymapi\bin\Debug\netcoreapp2.0\ymApi.runtimeconfig.dev.json
+C:\ybproj\GitHub\ymapi\bin\Debug\netcoreapp2.0\ymApi.dll
+C:\ybproj\GitHub\ymapi\bin\Debug\netcoreapp2.0\ymApi.pdb
+C:\ybproj\GitHub\ymapi\obj\Debug\netcoreapp2.0\ymApi.csprojAssemblyReference.cache
+C:\ybproj\GitHub\ymapi\obj\Debug\netcoreapp2.0\ymApi.csproj.CoreCompileInputs.cache
+C:\ybproj\GitHub\ymapi\obj\Debug\netcoreapp2.0\ymApi.AssemblyInfoInputs.cache
+C:\ybproj\GitHub\ymapi\obj\Debug\netcoreapp2.0\ymApi.AssemblyInfo.cs
+C:\ybproj\GitHub\ymapi\obj\Debug\netcoreapp2.0\ymApi.dll
+C:\ybproj\GitHub\ymapi\obj\Debug\netcoreapp2.0\ymApi.pdb
